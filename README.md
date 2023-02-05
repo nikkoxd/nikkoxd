@@ -1,9 +1,9 @@
-## 👋 Hi there! 
+## `👋` Hi there! 
 
 Welcome to my GitHub profile!<br/>
 I'm nikko, a software engineering student from Russia.
 
-## ⌨️ My skills:
+## `🧑🏼‍💻` My skills:
 
 `*` **Languages**
 
