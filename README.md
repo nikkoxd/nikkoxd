@@ -1,12 +1,9 @@
-<h3 align="center">Hi there! 👋</h3>
+### Hi there! 👋
 
----
+Welcome to my GitHub profile!<br/>
+I'm nikko, a software engineering student from Russia.
 
-Welcome to my GitHub profile!
-
----
-
-__Things I code with:__
+### My skills:
 
 ![aws](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
