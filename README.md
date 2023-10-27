@@ -7,7 +7,7 @@ I'm nikko, a software engineering student from Russia.
 
 `*` **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,cpp,c,ts,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,ts,python)](https://skillicons.dev)
 
 `*` **Toolkit**
 
