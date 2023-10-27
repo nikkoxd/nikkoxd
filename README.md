@@ -15,7 +15,7 @@ I'm nikko, a software engineering student from Russia.
 
 `*` **Toolkit**
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,figma,git,bash,mongodb,nextjs)https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,figma,git,bash,mongodb,nextjs)](https://skillicons.dev)
 
 
 
