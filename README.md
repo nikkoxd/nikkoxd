@@ -1,7 +1,4 @@
-## `👋` Hi there! 
-
-Welcome to my GitHub profile!<br/>
-I'm nikko, a software engineering student from Russia.
+[![header.png]](https://github.com/nikkoxd/nikkoxd/blob/main/header.png)
 
 ## `🧑🏼‍💻` My skills:
 
