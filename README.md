@@ -2,9 +2,8 @@
 
 # 👋 Hi there
 
-### Welcome to my GitHub profile
-
-<p>I'm nikko, a software engineering student</br>
+<p>Welcome to my GitHub profile!</p>
+<p>
 <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/white" />
 <img height="16" width="16" src="https://cdn.simpleicons.org/typescript/white" />
 <img height="16" width="16" src="https://cdn.simpleicons.org/node.js/white" />
