@@ -12,6 +12,12 @@
 <img height="16" width="16" src="https://cdn.simpleicons.org/c++/white" />
 </p>
 
+### 🔭 I am currently working on [Stella](https://github.com/nikkoxd)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikkoxd)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkoxd&layout=compact)
+
 <!-- ## `🧑🏼‍💻` My skills:
 
 `*` **Languages**
