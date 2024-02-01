@@ -14,10 +14,6 @@
 
 ### 🔭 I am currently working on [Stella](https://github.com/nikkoxd)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nikkoxd)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkoxd&layout=compact)
-
 <!-- ## `🧑🏼‍💻` My skills:
 
 `*` **Languages**
