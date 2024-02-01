@@ -1,4 +1,4 @@
-[![header.png]](https://github.com/nikkoxd/nikkoxd/blob/main/header.png)
+![header](/header.png)
 
 ## `🧑🏼‍💻` My skills:
 
