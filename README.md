@@ -1,6 +1,6 @@
 <img src="nikkoxd.png" height="180" align="right"></img>
 
-# 👋 Hi there
+# 👋 Hi there!
 
 ### Welcome to my GitHub profile
 
