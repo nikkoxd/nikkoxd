@@ -1,4 +1,6 @@
 <img src="pfp.png" width="128" height="128" align="right"></img>
+
+<h1>👋 Hi there!</h1>
 <h3> Welcome to my GitHub profile</h3>
 <p>I'm nikko, a software engineering student</br>
 <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/white" />
