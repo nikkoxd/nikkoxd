@@ -1,4 +1,4 @@
-<img src="pfp.png" height="180" align="right"></img>
+<img src="nikko.png" height="180" align="right"></img>
 
 # 👋 Hi there
 
