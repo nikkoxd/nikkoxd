@@ -1,21 +1,11 @@
-<table align="center">
-  <tr>
-    <td>
-    <h1 align="center">👋 Hi there</h1>
-      <h3> Welcome to my GitHub profile</h3>
-      <p>I'm nikko, a software engineering student</br>
-        <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/white" />
-        <img height="16" width="16" src="https://cdn.simpleicons.org/typescript/white" />
-        <img height="16" width="16" src="https://cdn.simpleicons.org/node.js/white" />
-        <img height="16" width="16" src="https://cdn.simpleicons.org/xcode/white" />
-        <img height="16" width="16" src="https://cdn.simpleicons.org/c++/white" />
-      </p>
-    </td>
-    <td>
-      <img src="pfp.png" width="128" height="128"></img>
-    </td>
-  </tr>
-</table>
+<img src="pfp.png" width="128" height="128" align="right"></img>
+<h3> Welcome to my GitHub profile</h3>
+<p>I'm nikko, a software engineering student</br>
+<img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/white" />
+<img height="16" width="16" src="https://cdn.simpleicons.org/typescript/white" />
+<img height="16" width="16" src="https://cdn.simpleicons.org/node.js/white" />
+<img height="16" width="16" src="https://cdn.simpleicons.org/xcode/white" />
+<img height="16" width="16" src="https://cdn.simpleicons.org/c++/white" />
 
 ### 🔭 What I'm currently working on
 
