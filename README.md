@@ -1,6 +1,6 @@
-<img src="avatar.png" height="128" align="right"></img>
+<img src="avatar.png" height="150" align="right"></img>
 
-# 👋 Hi there
+### 👋 Hi there
 
 ### Welcome to my GitHub profile
 
