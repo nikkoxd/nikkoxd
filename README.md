@@ -1,6 +1,25 @@
-![header](/header.png)
+<table align="center">
+  <tr>
+    <td>
+    <h1 align="center">👋 Hi there</h1>
+      <h3> Welcome to my GitHub profile</h3>
+      <p>I'm nikko, a software engineering student</br>
+        <img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/white" />
+        <img height="16" width="16" src="https://cdn.simpleicons.org/typescript/white" />
+        <img height="16" width="16" src="https://cdn.simpleicons.org/node.js/white" />
+        <img height="16" width="16" src="https://cdn.simpleicons.org/xcode/white" />
+        <img height="16" width="16" src="https://cdn.simpleicons.org/c++/white" />
+      </p>
+    </td>
+    <td>
+      <img src="pfp.png" width="128" height="128"></img>
+    </td>
+  </tr>
+</table>
 
-## `🧑🏼‍💻` My skills:
+### 🔭 What I'm currently working on
+
+<!-- ## `🧑🏼‍💻` My skills:
 
 `*` **Languages**
 
@@ -12,9 +31,7 @@
 
 `*` **Toolkit**
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,figma,git,bash,mongodb,nextjs)](https://skillicons.dev)
-
-
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,figma,git,bash,mongodb,nextjs)](https://skillicons.dev) -->
 
 <!--
 **T3RRY4/T3RRY4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
