@@ -12,7 +12,7 @@
 <img height="16" width="16" src="https://cdn.simpleicons.org/csharp/white" />
 </p>
 
-### 🔭 I am currently working on [Stella](https://github.com/nikkoxd)
+### 🔭 I am currently working on [Stella]((https://github.com/nikkoxd/stella)
 
 <!-- ## `🧑🏼‍💻` My skills:
 
