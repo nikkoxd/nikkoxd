@@ -15,6 +15,7 @@ I really like bash scripting (don't look at my dotfiles repo activity)
 ![Static Badge](https://img.shields.io/badge/typescript-%23362E2E?style=for-the-badge&logo=typescript&logoColor=%23362E2E&labelColor=%23FFA795)
 <br>
 ![Neovim](https://img.shields.io/badge/neovim-%23362E2E?style=for-the-badge&logo=neovim&logoColor=%23362E2E&labelColor=%23FFA795)
+![Qt](https://img.shields.io/badge/qt-%23362E2E?style=for-the-badge&logo=qt&logoColor=%23362E2E&labelColor=%23FFA795)
 
 
 
