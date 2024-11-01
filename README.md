@@ -1,44 +1,24 @@
-<img src="nikkoxd.png" height="180" align="right"></img>
+<div align="center" text-align="center" style="inline-block">
+  
+<img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/35370166&mask=circle" height="200">
 
-# 👋 Hi there!
+<h1>nikko</h1>
 
-### Welcome to my GitHub profile
+<h2>about me</h2>
 
-<p>I'm nikko, a software engineering student</br>
-<img height="16" width="16" src="https://cdn.simpleicons.org/visualstudiocode/white" />
-<img height="16" width="16" src="https://cdn.simpleicons.org/typescript/white" />
-<img height="16" width="16" src="https://cdn.simpleicons.org/node.js/white" />
-<img height="16" width="16" src="https://cdn.simpleicons.org/c++/white" />
-<img height="16" width="16" src="https://cdn.simpleicons.org/csharp/white" />
-</p>
+Hi! My name is nikko, I'm a software engineering student from Russia<br>
+I really like bash scripting (don't look at my dotfiles repo activity)
 
-### 🔭 I am currently working on [Stella](https://github.com/nikkoxd/stella)
+<h2>skills & tools</h2>
 
-<!-- ## `🧑🏼‍💻` My skills:
+![C++](https://img.shields.io/badge/c%2B%2B-%23362E2E?style=for-the-badge&logo=cplusplus&logoColor=%23362E2E&labelColor=%23FFA795)
+![Static Badge](https://img.shields.io/badge/typescript-%23362E2E?style=for-the-badge&logo=typescript&logoColor=%23362E2E&labelColor=%23FFA795)
+<br>
+![Neovim](https://img.shields.io/badge/neovim-%23362E2E?style=for-the-badge&logo=neovim&logoColor=%23362E2E&labelColor=%23FFA795)
 
-`*` **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,ts,python)](https://skillicons.dev)
 
-`*` **Frameworks & Libraries**
+![Current Project](https://img.shields.io/badge/current%20project-none-%23362E2E?style=for-the-badge&logo=git&logoColor=%23362E2E&labelColor=%23FFA795)
+![E-Mail](https://img.shields.io/badge/email-nikko%40waifu.club-%23362E2E?style=for-the-badge&logo=gmail&logoColor=%23362E2E&labelColor=%23FFA795)
 
-[![My Skills](https://skillicons.dev/icons?i=astro,nodejs,svelte,tailwind,react)](https://skillicons.dev)
-
-`*` **Toolkit**
-
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,figma,git,bash,mongodb,nextjs)](https://skillicons.dev) -->
-
-<!--
-**T3RRY4/T3RRY4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
