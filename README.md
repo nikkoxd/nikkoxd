@@ -1,6 +1,6 @@
 <div align="center" text-align="center" style="inline-block">
   
-<img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/35370166&mask=circle" height="200">
+<img src="https://wsrv.nl/?url=https://avatars.githubusercontent.com/u/35370166&mask=circle?" height="200">
 
 <h1>nikko</h1>
 
