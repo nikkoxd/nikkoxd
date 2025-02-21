@@ -20,6 +20,5 @@ I really like bash scripting (don't look at my dotfiles repo activity)
 
 
 ![Current Project](https://img.shields.io/badge/current%20project-none-%23362E2E?style=for-the-badge&logo=git&logoColor=%23362E2E&labelColor=%23FFA795)
-![E-Mail](https://img.shields.io/badge/email-nikko%40waifu.club-%23362E2E?style=for-the-badge&logo=gmail&logoColor=%23362E2E&labelColor=%23FFA795)
 
 </div>
