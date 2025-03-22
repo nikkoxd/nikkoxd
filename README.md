@@ -6,8 +6,7 @@
 
 <h2>about me</h2>
 
-Hi! My name is nikko, I'm a software engineering student from Russia<br>
-I really like bash scripting (don't look at my dotfiles repo activity)
+Hi! My name is nikko, I'm a software engineering student from Russia
 
 <h2>skills & tools</h2>
 
